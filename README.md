@@ -1,6 +1,6 @@
 # Terceiro Código 
 
-Código feito em Portugol Studio, que tem a função de descobrir se o número digitado é par o ímpar, atráves de uma operação.
+Código feito em Portugol Studio, que tem a função de descobrir se o número digitado é par ou ímpar, atráves de uma operação.
 
 ### Pré-requisitos
 
