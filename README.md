@@ -2,18 +2,11 @@
 
 Código feito em Portugol Studio, que tem a função de descobrir se o número digitado é par o ímpar, atráves de uma operação.
 
-|Número  ||Situação |
-|--------||---------|
-| 7      || ímpar   |
-| 5      || ímpar   |
-| 8      || Par     |
-| 4      || Par     |
-
-
 ### Pré-requisitos
 
 É necessário ter instalado o Portugol Studio em seu computador para realizar o código.
 
+![Imagem Portugol.](https://d33wubrfki0l68.cloudfront.net/bea780b6b166df3b6a83964d448ebf5c70159f19/c89f5/assets/img/portugolstudio.jpg)
 
 ## Executando o código
 
